@@ -70,3 +70,25 @@ Visit https://powerbi.microsoft.com/en-us/desktop/.
 Download and install Power BI Desktop.
 Launch Power BI and import any sample Excel/CSV data.
 Create a basic bar chart or line chart.
+
+
+EXPECTED OUTPUT:
+A.Python Installation
+Pandas version: 1.5.3
+Numpy version: 1.24.3
+Matplotlib version: 3.7.1
+Python successfully installed.
+
+B. R Installation
+[1] "Hello, R is successfully installed!"
+C. Tableau Public / Power BI
+Successful launch of the software.
+Ability to import datasets (e.g., Excel, CSV).
+Display of sample charts or dashboards using drag-and-drop interface.
+
+RESULT:
+The following data analysis and visualization tools were successfully installed and verified:
+Python (Jupyter Notebook with Pandas, NumPy, Matplotlib)
+R (RStudio with ggplot2 and dplyr)
+Tableau Public
+Microsoft Power BI
